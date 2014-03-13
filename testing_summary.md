@@ -1,16 +1,15 @@
 # Project Title
-Insert the name of your project
+Testing
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Vikash Bhaskar vkbeee
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+This is Vikash, a BTech in Electrical Engineering interested in CPPS. I know C++ and Data Structure algorithm along with concepts of Operating systems. I will be updating the information in near future.
+(Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology). 
 
 ## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
-
+fb.com/vkb26
 [Example Link](http://www.google.com "Example Link")
 
 ## Example Code
